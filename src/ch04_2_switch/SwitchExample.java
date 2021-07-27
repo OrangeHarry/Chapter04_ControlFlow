@@ -17,8 +17,8 @@ public class SwitchExample {
 //			grade = 'F';
 //		}
 //		System.out.println("your grade is " + grade); 
-		int score = 92;
-		char grade = 0;
+//		int score = 92;
+//		char grade = 0;
 
 		int month = 3;
 		switch (month) {
