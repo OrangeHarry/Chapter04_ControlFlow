@@ -8,7 +8,7 @@ public class Test4 {
 
 		int num = 1;
 		int sum = 0;
-//
+
 		while (num <= 1000) {
 //			num++; //여기에 위치해도 잘 된다.
 			if ((num % 2) == 0 && (num % 7) == 0) {
@@ -20,3 +20,4 @@ public class Test4 {
 		System.out.println("총 합은 = " + sum);
 	}
 }
+//
