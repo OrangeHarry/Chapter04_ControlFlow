@@ -14,7 +14,7 @@ public class Test2switch좋다 {
 //			System.out.println("음수 or 30이상의 수");
 //		}
 
-		int n = (int) (Math.random() * 100);
+		int n = (int) (Math.random() * 100); 
 		System.out.println(n);
 		int num = n / 10; // n이 몇십번대의 숫자라는걸 직관적으로 알려준다
 		System.out.println(num);
